@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/NewsReaderClient.iml" filepath="$PROJECT_DIR$/NewsReaderClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news_feeder.iml" filepath="$PROJECT_DIR$/news_feeder.iml" />
     </modules>
   </component>
 </project>
